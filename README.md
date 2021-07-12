@@ -15,3 +15,5 @@ format of initial user
   password: "pass1",
   role: "admin",
 }
+relevent files
+init.js, view.js, access_layer.js, user.js, util.js, db.js
