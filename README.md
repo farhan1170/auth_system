@@ -8,3 +8,10 @@ create user
 delete user
 get userlist
 update user
+
+format of initial user
+{
+  name: "admin1",
+  password: "pass1",
+  role: "admin",
+}
